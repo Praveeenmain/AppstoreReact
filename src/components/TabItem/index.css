@@ -1,0 +1,8 @@
+.tab-btn{
+    background-color: transparent;
+    border:0px
+}
+.active-tab-btn{
+    border-bottom: 2px solid #0b69ff;
+    color:  #2563eb;
+}

@@ -1,0 +1,43 @@
+.App-store-container{
+    background-image: linear-gradient(to bottom,#fff1eb,#ace0f9);
+    background-size: cover;
+    height:150vh;
+    display: flex;
+    flex-direction: column;
+    padding-top:45px;
+   
+}
+
+.card-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.search{
+    width:20px;
+
+}
+.search-input{
+    border:0px;
+    background-color:transparent;
+}
+.input-container{
+    background-color: white;
+}
+.app-heading{
+    color:black;
+    font-size: 30px;
+}
+.tab-button{
+    display: flex;
+}
+.tab-item-container{
+    list-style-type: none;
+    margin:10px
+}
+.app-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
